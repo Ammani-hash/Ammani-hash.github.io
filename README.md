@@ -21,9 +21,6 @@ or installations.
 License
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-- I would like to thank [insert names or resources] for their help and inspiration in creating this personal portfolio website.
-
 Takeaways
 - This project allowed me to showcase my skills and experience in web development using HTML, CSS, and JavaScript, and provided an opportunity to apply what I have learned
 in a practical setting. Through this project, I gained experience in creating a responsive and visually appealing website using CSS, as well as adding interactivity and
